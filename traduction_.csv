@@ -1,0 +1,535 @@
+en;fr
+i see the apple .;je vois la pomme .
+i see an apple .;je vois une pomme .
+i see the book .;je vois le livre .
+i see a book .;je vois un livre .
+i see the cat .;je vois le chat .
+i see a dog .;je vois un chien .
+i see the car .;je vois la voiture .
+i see the house .;je vois la maison .
+i see the bread .;je vois le pain .
+i see a letter .;je vois une lettre .
+i see the newspaper .;je vois le journal .
+i see the water .;je vois l'eau .
+i like the apple .;j'aime la pomme .
+i like an apple .;j'aime une pomme .
+i like the book .;j'aime le livre .
+i like a book .;j'aime un livre .
+i like the cat .;j'aime le chat .
+i like a dog .;j'aime un chien .
+i like the car .;j'aime la voiture .
+i like the house .;j'aime la maison .
+i like the bread .;j'aime le pain .
+i like a letter .;j'aime une lettre .
+i like the newspaper .;j'aime le journal .
+i like the water .;j'aime l'eau .
+i want the apple .;je veux la pomme .
+i want an apple .;je veux une pomme .
+i want the book .;je veux le livre .
+i want a book .;je veux un livre .
+i want the cat .;je veux le chat .
+i want a dog .;je veux un chien .
+i want the car .;je veux la voiture .
+i want the house .;je veux la maison .
+i want the bread .;je veux le pain .
+i want a letter .;je veux une lettre .
+i want the newspaper .;je veux le journal .
+i want the water .;je veux l'eau .
+i eat the apple .;je mange la pomme .
+i eat an apple .;je mange une pomme .
+i eat the book .;je mange le livre .
+i eat a book .;je mange un livre .
+i eat the cat .;je mange le chat .
+i eat a dog .;je mange un chien .
+i eat the car .;je mange la voiture .
+i eat the house .;je mange la maison .
+i eat the bread .;je mange le pain .
+i eat a letter .;je mange une lettre .
+i eat the newspaper .;je mange le journal .
+i eat the water .;je mange l'eau .
+i have the apple .;j'ai la pomme .
+i have an apple .;j'ai une pomme .
+i have the book .;j'ai le livre .
+i have a book .;j'ai un livre .
+i have the cat .;j'ai le chat .
+i have a dog .;j'ai un chien .
+i have the car .;j'ai la voiture .
+i have the house .;j'ai la maison .
+i have the bread .;j'ai le pain .
+i have a letter .;j'ai une lettre .
+i have the newspaper .;j'ai le journal .
+i have the water .;j'ai l'eau .
+i read the apple .;je lis la pomme .
+i read an apple .;je lis une pomme .
+i read the book .;je lis le livre .
+i read a book .;je lis un livre .
+i read the cat .;je lis le chat .
+i read a dog .;je lis un chien .
+i read the car .;je lis la voiture .
+i read the house .;je lis la maison .
+i read the bread .;je lis le pain .
+i read a letter .;je lis une lettre .
+i read the newspaper .;je lis le journal .
+i read the water .;je lis l'eau .
+i buy the apple .;j'achète la pomme .
+i buy an apple .;j'achète une pomme .
+i buy the book .;j'achète le livre .
+i buy a book .;j'achète un livre .
+i buy the cat .;j'achète le chat .
+i buy a dog .;j'achète un chien .
+i buy the car .;j'achète la voiture .
+i buy the house .;j'achète la maison .
+i buy the bread .;j'achète le pain .
+i buy a letter .;j'achète une lettre .
+i buy the newspaper .;j'achète le journal .
+i buy the water .;j'achète l'eau .
+you see the apple .;tu vois la pomme .
+you see an apple .;tu vois une pomme .
+you see the book .;tu vois le livre .
+you see a book .;tu vois un livre .
+you see the cat .;tu vois le chat .
+you see a dog .;tu vois un chien .
+you see the car .;tu vois la voiture .
+you see the house .;tu vois la maison .
+you see the bread .;tu vois le pain .
+you see a letter .;tu vois une lettre .
+you see the newspaper .;tu vois le journal .
+you see the water .;tu vois l'eau .
+you like the apple .;tu aimes la pomme .
+you like an apple .;tu aimes une pomme .
+you like the book .;tu aimes le livre .
+you like a book .;tu aimes un livre .
+you like the cat .;tu aimes le chat .
+you like a dog .;tu aimes un chien .
+you like the car .;tu aimes la voiture .
+you like the house .;tu aimes la maison .
+you like the bread .;tu aimes le pain .
+you like a letter .;tu aimes une lettre .
+you like the newspaper .;tu aimes le journal .
+you like the water .;tu aimes l'eau .
+you want the apple .;tu veux la pomme .
+you want an apple .;tu veux une pomme .
+you want the book .;tu veux le livre .
+you want a book .;tu veux un livre .
+you want the cat .;tu veux le chat .
+you want a dog .;tu veux un chien .
+you want the car .;tu veux la voiture .
+you want the house .;tu veux la maison .
+you want the bread .;tu veux le pain .
+you want a letter .;tu veux une lettre .
+you want the newspaper .;tu veux le journal .
+you want the water .;tu veux l'eau .
+you eat the apple .;tu manges la pomme .
+you eat an apple .;tu manges une pomme .
+you eat the book .;tu manges le livre .
+you eat a book .;tu manges un livre .
+you eat the cat .;tu manges le chat .
+you eat a dog .;tu manges un chien .
+you eat the car .;tu manges la voiture .
+you eat the house .;tu manges la maison .
+you eat the bread .;tu manges le pain .
+you eat a letter .;tu manges une lettre .
+you eat the newspaper .;tu manges le journal .
+you eat the water .;tu manges l'eau .
+you have the apple .;tu as la pomme .
+you have an apple .;tu as une pomme .
+you have the book .;tu as le livre .
+you have a book .;tu as un livre .
+you have the cat .;tu as le chat .
+you have a dog .;tu as un chien .
+you have the car .;tu as la voiture .
+you have the house .;tu as la maison .
+you have the bread .;tu as le pain .
+you have a letter .;tu as une lettre .
+you have the newspaper .;tu as le journal .
+you have the water .;tu as l'eau .
+you read the apple .;tu lis la pomme .
+you read an apple .;tu lis une pomme .
+you read the book .;tu lis le livre .
+you read a book .;tu lis un livre .
+you read the cat .;tu lis le chat .
+you read a dog .;tu lis un chien .
+you read the car .;tu lis la voiture .
+you read the house .;tu lis la maison .
+you read the bread .;tu lis le pain .
+you read a letter .;tu lis une lettre .
+you read the newspaper .;tu lis le journal .
+you read the water .;tu lis l'eau .
+you buy the apple .;tu achètes la pomme .
+you buy an apple .;tu achètes une pomme .
+you buy the book .;tu achètes le livre .
+you buy a book .;tu achètes un livre .
+you buy the cat .;tu achètes le chat .
+you buy a dog .;tu achètes un chien .
+you buy the car .;tu achètes la voiture .
+you buy the house .;tu achètes la maison .
+you buy the bread .;tu achètes le pain .
+you buy a letter .;tu achètes une lettre .
+you buy the newspaper .;tu achètes le journal .
+you buy the water .;tu achètes l'eau .
+he sees the apple .;il voit la pomme .
+he sees an apple .;il voit une pomme .
+he sees the book .;il voit le livre .
+he sees a book .;il voit un livre .
+he sees the cat .;il voit le chat .
+he sees a dog .;il voit un chien .
+he sees the car .;il voit la voiture .
+he sees the house .;il voit la maison .
+he sees the bread .;il voit le pain .
+he sees a letter .;il voit une lettre .
+he sees the newspaper .;il voit le journal .
+he sees the water .;il voit l'eau .
+he likes the apple .;il aime la pomme .
+he likes an apple .;il aime une pomme .
+he likes the book .;il aime le livre .
+he likes a book .;il aime un livre .
+he likes the cat .;il aime le chat .
+he likes a dog .;il aime un chien .
+he likes the car .;il aime la voiture .
+he likes the house .;il aime la maison .
+he likes the bread .;il aime le pain .
+he likes a letter .;il aime une lettre .
+he likes the newspaper .;il aime le journal .
+he likes the water .;il aime l'eau .
+he wants the apple .;il veut la pomme .
+he wants an apple .;il veut une pomme .
+he wants the book .;il veut le livre .
+he wants a book .;il veut un livre .
+he wants the cat .;il veut le chat .
+he wants a dog .;il veut un chien .
+he wants the car .;il veut la voiture .
+he wants the house .;il veut la maison .
+he wants the bread .;il veut le pain .
+he wants a letter .;il veut une lettre .
+he wants the newspaper .;il veut le journal .
+he wants the water .;il veut l'eau .
+he eats the apple .;il mange la pomme .
+he eats an apple .;il mange une pomme .
+he eats the book .;il mange le livre .
+he eats a book .;il mange un livre .
+he eats the cat .;il mange le chat .
+he eats a dog .;il mange un chien .
+he eats the car .;il mange la voiture .
+he eats the house .;il mange la maison .
+he eats the bread .;il mange le pain .
+he eats a letter .;il mange une lettre .
+he eats the newspaper .;il mange le journal .
+he eats the water .;il mange l'eau .
+he has the apple .;il a la pomme .
+he has an apple .;il a une pomme .
+he has the book .;il a le livre .
+he has a book .;il a un livre .
+he has the cat .;il a le chat .
+he has a dog .;il a un chien .
+he has the car .;il a la voiture .
+he has the house .;il a la maison .
+he has the bread .;il a le pain .
+he has a letter .;il a une lettre .
+he has the newspaper .;il a le journal .
+he has the water .;il a l'eau .
+he reads the apple .;il lit la pomme .
+he reads an apple .;il lit une pomme .
+he reads the book .;il lit le livre .
+he reads a book .;il lit un livre .
+he reads the cat .;il lit le chat .
+he reads a dog .;il lit un chien .
+he reads the car .;il lit la voiture .
+he reads the house .;il lit la maison .
+he reads the bread .;il lit le pain .
+he reads a letter .;il lit une lettre .
+he reads the newspaper .;il lit le journal .
+he reads the water .;il lit l'eau .
+he buys the apple .;il achète la pomme .
+he buys an apple .;il achète une pomme .
+he buys the book .;il achète le livre .
+he buys a book .;il achète un livre .
+he buys the cat .;il achète le chat .
+he buys a dog .;il achète un chien .
+he buys the car .;il achète la voiture .
+he buys the house .;il achète la maison .
+he buys the bread .;il achète le pain .
+he buys a letter .;il achète une lettre .
+he buys the newspaper .;il achète le journal .
+he buys the water .;il achète l'eau .
+she sees the apple .;elle voit la pomme .
+she sees an apple .;elle voit une pomme .
+she sees the book .;elle voit le livre .
+she sees a book .;elle voit un livre .
+she sees the cat .;elle voit le chat .
+she sees a dog .;elle voit un chien .
+she sees the car .;elle voit la voiture .
+she sees the house .;elle voit la maison .
+she sees the bread .;elle voit le pain .
+she sees a letter .;elle voit une lettre .
+she sees the newspaper .;elle voit le journal .
+she sees the water .;elle voit l'eau .
+she likes the apple .;elle aime la pomme .
+she likes an apple .;elle aime une pomme .
+she likes the book .;elle aime le livre .
+she likes a book .;elle aime un livre .
+she likes the cat .;elle aime le chat .
+she likes a dog .;elle aime un chien .
+she likes the car .;elle aime la voiture .
+she likes the house .;elle aime la maison .
+she likes the bread .;elle aime le pain .
+she likes a letter .;elle aime une lettre .
+she likes the newspaper .;elle aime le journal .
+she likes the water .;elle aime l'eau .
+she wants the apple .;elle veut la pomme .
+she wants an apple .;elle veut une pomme .
+she wants the book .;elle veut le livre .
+she wants a book .;elle veut un livre .
+she wants the cat .;elle veut le chat .
+she wants a dog .;elle veut un chien .
+she wants the car .;elle veut la voiture .
+she wants the house .;elle veut la maison .
+she wants the bread .;elle veut le pain .
+she wants a letter .;elle veut une lettre .
+she wants the newspaper .;elle veut le journal .
+she wants the water .;elle veut l'eau .
+she eats the apple .;elle mange la pomme .
+she eats an apple .;elle mange une pomme .
+she eats the book .;elle mange le livre .
+she eats a book .;elle mange un livre .
+she eats the cat .;elle mange le chat .
+she eats a dog .;elle mange un chien .
+she eats the car .;elle mange la voiture .
+she eats the house .;elle mange la maison .
+she eats the bread .;elle mange le pain .
+she eats a letter .;elle mange une lettre .
+she eats the newspaper .;elle mange le journal .
+she eats the water .;elle mange l'eau .
+she has the apple .;elle a la pomme .
+she has an apple .;elle a une pomme .
+she has the book .;elle a le livre .
+she has a book .;elle a un livre .
+she has the cat .;elle a le chat .
+she has a dog .;elle a un chien .
+she has the car .;elle a la voiture .
+she has the house .;elle a la maison .
+she has the bread .;elle a le pain .
+she has a letter .;elle a une lettre .
+she has the newspaper .;elle a le journal .
+she has the water .;elle a l'eau .
+she reads the apple .;elle lit la pomme .
+she reads an apple .;elle lit une pomme .
+she reads the book .;elle lit le livre .
+she reads a book .;elle lit un livre .
+she reads the cat .;elle lit le chat .
+she reads a dog .;elle lit un chien .
+she reads the car .;elle lit la voiture .
+she reads the house .;elle lit la maison .
+she reads the bread .;elle lit le pain .
+she reads a letter .;elle lit une lettre .
+she reads the newspaper .;elle lit le journal .
+she reads the water .;elle lit l'eau .
+she buys the apple .;elle achète la pomme .
+she buys an apple .;elle achète une pomme .
+she buys the book .;elle achète le livre .
+she buys a book .;elle achète un livre .
+she buys the cat .;elle achète le chat .
+she buys a dog .;elle achète un chien .
+she buys the car .;elle achète la voiture .
+she buys the house .;elle achète la maison .
+she buys the bread .;elle achète le pain .
+she buys a letter .;elle achète une lettre .
+she buys the newspaper .;elle achète le journal .
+she buys the water .;elle achète l'eau .
+we see the apple .;nous voyons la pomme .
+we see an apple .;nous voyons une pomme .
+we see the book .;nous voyons le livre .
+we see a book .;nous voyons un livre .
+we see the cat .;nous voyons le chat .
+we see a dog .;nous voyons un chien .
+we see the car .;nous voyons la voiture .
+we see the house .;nous voyons la maison .
+we see the bread .;nous voyons le pain .
+we see a letter .;nous voyons une lettre .
+we see the newspaper .;nous voyons le journal .
+we see the water .;nous voyons l'eau .
+we like the apple .;nous aimons la pomme .
+we like an apple .;nous aimons une pomme .
+we like the book .;nous aimons le livre .
+we like a book .;nous aimons un livre .
+we like the cat .;nous aimons le chat .
+we like a dog .;nous aimons un chien .
+we like the car .;nous aimons la voiture .
+we like the house .;nous aimons la maison .
+we like the bread .;nous aimons le pain .
+we like a letter .;nous aimons une lettre .
+we like the newspaper .;nous aimons le journal .
+we like the water .;nous aimons l'eau .
+we want the apple .;nous voulons la pomme .
+we want an apple .;nous voulons une pomme .
+we want the book .;nous voulons le livre .
+we want a book .;nous voulons un livre .
+we want the cat .;nous voulons le chat .
+we want a dog .;nous voulons un chien .
+we want the car .;nous voulons la voiture .
+we want the house .;nous voulons la maison .
+we want the bread .;nous voulons le pain .
+we want a letter .;nous voulons une lettre .
+we want the newspaper .;nous voulons le journal .
+we want the water .;nous voulons l'eau .
+we eat the apple .;nous mangeons la pomme .
+we eat an apple .;nous mangeons une pomme .
+we eat the book .;nous mangeons le livre .
+we eat a book .;nous mangeons un livre .
+we eat the cat .;nous mangeons le chat .
+we eat a dog .;nous mangeons un chien .
+we eat the car .;nous mangeons la voiture .
+we eat the house .;nous mangeons la maison .
+we eat the bread .;nous mangeons le pain .
+we eat a letter .;nous mangeons une lettre .
+we eat the newspaper .;nous mangeons le journal .
+we eat the water .;nous mangeons l'eau .
+we have the apple .;nous avons la pomme .
+we have an apple .;nous avons une pomme .
+we have the book .;nous avons le livre .
+we have a book .;nous avons un livre .
+we have the cat .;nous avons le chat .
+we have a dog .;nous avons un chien .
+we have the car .;nous avons la voiture .
+we have the house .;nous avons la maison .
+we have the bread .;nous avons le pain .
+we have a letter .;nous avons une lettre .
+we have the newspaper .;nous avons le journal .
+we have the water .;nous avons l'eau .
+we read the apple .;nous lisons la pomme .
+we read an apple .;nous lisons une pomme .
+we read the book .;nous lisons le livre .
+we read a book .;nous lisons un livre .
+we read the cat .;nous lisons le chat .
+we read a dog .;nous lisons un chien .
+we read the car .;nous lisons la voiture .
+we read the house .;nous lisons la maison .
+we read the bread .;nous lisons le pain .
+we read a letter .;nous lisons une lettre .
+we read the newspaper .;nous lisons le journal .
+we read the water .;nous lisons l'eau .
+we buy the apple .;nous achetons la pomme .
+we buy an apple .;nous achetons une pomme .
+we buy the book .;nous achetons le livre .
+we buy a book .;nous achetons un livre .
+we buy the cat .;nous achetons le chat .
+we buy a dog .;nous achetons un chien .
+we buy the car .;nous achetons la voiture .
+we buy the house .;nous achetons la maison .
+we buy the bread .;nous achetons le pain .
+we buy a letter .;nous achetons une lettre .
+we buy the newspaper .;nous achetons le journal .
+we buy the water .;nous achetons l'eau .
+they see the apple .;ils voient la pomme .
+they see an apple .;ils voient une pomme .
+they see the book .;ils voient le livre .
+they see a book .;ils voient un livre .
+they see the cat .;ils voient le chat .
+they see a dog .;ils voient un chien .
+they see the car .;ils voient la voiture .
+they see the house .;ils voient la maison .
+they see the bread .;ils voient le pain .
+they see a letter .;ils voient une lettre .
+they see the newspaper .;ils voient le journal .
+they see the water .;ils voient l'eau .
+they like the apple .;ils aiment la pomme .
+they like an apple .;ils aiment une pomme .
+they like the book .;ils aiment le livre .
+they like a book .;ils aiment un livre .
+they like the cat .;ils aiment le chat .
+they like a dog .;ils aiment un chien .
+they like the car .;ils aiment la voiture .
+they like the house .;ils aiment la maison .
+they like the bread .;ils aiment le pain .
+they like a letter .;ils aiment une lettre .
+they like the newspaper .;ils aiment le journal .
+they like the water .;ils aiment l'eau .
+they want the apple .;ils veulent la pomme .
+they want an apple .;ils veulent une pomme .
+they want the book .;ils veulent le livre .
+they want a book .;ils veulent un livre .
+they want the cat .;ils veulent le chat .
+they want a dog .;ils veulent un chien .
+they want the car .;ils veulent la voiture .
+they want the house .;ils veulent la maison .
+they want the bread .;ils veulent le pain .
+they want a letter .;ils veulent une lettre .
+they want the newspaper .;ils veulent le journal .
+they want the water .;ils veulent l'eau .
+they eat the apple .;ils mangent la pomme .
+they eat an apple .;ils mangent une pomme .
+they eat the book .;ils mangent le livre .
+they eat a book .;ils mangent un livre .
+they eat the cat .;ils mangent le chat .
+they eat a dog .;ils mangent un chien .
+they eat the car .;ils mangent la voiture .
+they eat the house .;ils mangent la maison .
+they eat the bread .;ils mangent le pain .
+they eat a letter .;ils mangent une lettre .
+they eat the newspaper .;ils mangent le journal .
+they eat the water .;ils mangent l'eau .
+they have the apple .;ils ont la pomme .
+they have an apple .;ils ont une pomme .
+they have the book .;ils ont le livre .
+they have a book .;ils ont un livre .
+they have the cat .;ils ont le chat .
+they have a dog .;ils ont un chien .
+they have the car .;ils ont la voiture .
+they have the house .;ils ont la maison .
+they have the bread .;ils ont le pain .
+they have a letter .;ils ont une lettre .
+they have the newspaper .;ils ont le journal .
+they have the water .;ils ont l'eau .
+they read the apple .;ils lisent la pomme .
+they read an apple .;ils lisent une pomme .
+they read the book .;ils lisent le livre .
+they read a book .;ils lisent un livre .
+they read the cat .;ils lisent le chat .
+they read a dog .;ils lisent un chien .
+they read the car .;ils lisent la voiture .
+they read the house .;ils lisent la maison .
+they read the bread .;ils lisent le pain .
+they read a letter .;ils lisent une lettre .
+they read the newspaper .;ils lisent le journal .
+they read the water .;ils lisent l'eau .
+they buy the apple .;ils achètent la pomme .
+they buy an apple .;ils achètent une pomme .
+they buy the book .;ils achètent le livre .
+they buy a book .;ils achètent un livre .
+they buy the cat .;ils achètent le chat .
+they buy a dog .;ils achètent un chien .
+they buy the car .;ils achètent la voiture .
+they buy the house .;ils achètent la maison .
+they buy the bread .;ils achètent le pain .
+they buy a letter .;ils achètent une lettre .
+they buy the newspaper .;ils achètent le journal .
+they buy the water .;ils achètent l'eau .
+hello .;bonjour .
+thank you .;merci .
+good night .;bonne nuit .
+i am happy .;je suis heureux .
+she is happy .;elle est heureuse .
+we are tired .;nous sommes fatigués .
+the cat is black .;le chat est noir .
+the house is big .;la maison est grande .
+the dog is small .;le chien est petit .
+the car is red .;la voiture est rouge .
+hello .;bonjour .
+thank you .;merci .
+good night .;bonne nuit .
+i am happy .;je suis heureux .
+she is happy .;elle est heureuse .
+we are tired .;nous sommes fatigués .
+the cat is black .;le chat est noir .
+the house is big .;la maison est grande .
+the dog is small .;le chien est petit .
+the car is red .;la voiture est rouge .
+hello .;bonjour .
+thank you .;merci .
+good night .;bonne nuit .
+i am happy .;je suis heureux .
+she is happy .;elle est heureuse .
+we are tired .;nous sommes fatigués .
+the cat is black .;le chat est noir .
+the house is big .;la maison est grande .
+the dog is small .;le chien est petit .
+the car is red .;la voiture est rouge .
